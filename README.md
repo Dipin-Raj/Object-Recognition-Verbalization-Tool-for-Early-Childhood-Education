@@ -15,7 +15,7 @@ The **Object Recognition and Verbalization Tool** addresses the need for engagin
 ## System Overview
 The project employs **YOLOv8**, a state-of-the-art object detection model trained on the COCO dataset, to scan and identify objects. The identified objects are then articulated through audio feedback using Python's `speech_recognition` and `gTTS` libraries, creating an interactive, voice-controlled experience. This approach promotes visual and auditory learning, helping children associate names with objects in real-time.
 
-<img src="https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Source%20Code/Object%20Recognition%20and%20Verbalization%20Tool%20for%20Early%20Childhood%20Educatio_Yolo_Final_Code.py" style="transform: rotate(90deg); width: 50%;"/>
+<img src="https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Images/Flowcharts/Screenshot%202024-11-14%20005240.png" style="transform: rotate(90deg); width: 50%;"/>
 
 ## Methodology
 1. **Voice Command Recognition**: The system activates through specific voice prompts like "What is this?" using a microphone and Python's `speech_recognition` library.
