@@ -46,7 +46,7 @@ The tool demonstrated reliable real-time detection and audio feedback during tes
 This tool bridges early childhood education and AI, offering personalized and interactive learning experiences. It presents a breakthrough approach by aligning object recognition with auditory responses, making learning intuitive and engaging. Future work will focus on expanding object libraries, refining voice interaction, and integrating IoT elements for broader functionality.
 
 ## Code
-The full codebase for the **Object Recognition and Verbalization Tool for Early Childhood Education** is available [here](link-to-repo).
+The full codebase for the **Object Recognition and Verbalization Tool for Early Childhood Education** is available [here](https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Source%20Code/Object%20Recognition%20and%20Verbalization%20Tool%20for%20Early%20Childhood%20Educatio_Yolo_Final_Code.py).
 
 ## Documentation
 Refer to the complete project documentation for detailed insights into the methodology, implementation, and results.
